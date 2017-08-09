@@ -1,4 +1,5 @@
 title = "Meta Nick"
+baseURL = "https://pirate-dusts-56350.netlify.com"
 languageCode = "en-us"
 theme = "ananke"
 
