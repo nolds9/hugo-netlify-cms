@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: nolds9/hugo-netlify-cms # Path to your Github repository
+  branch: master # Branch to update
+publish_mode: editorial_workflow
