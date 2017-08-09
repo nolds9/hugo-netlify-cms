@@ -3,3 +3,5 @@ backend:
   repo: nolds9/hugo-netlify-cms # Path to your Github repository
   branch: master # Branch to update
 publish_mode: editorial_workflow
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
